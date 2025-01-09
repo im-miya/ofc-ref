@@ -1,5 +1,7 @@
-web3
 pycryptodome
 requests
 colorama
 fake-useragent
+cloudscraper
+web3
+eth-account
