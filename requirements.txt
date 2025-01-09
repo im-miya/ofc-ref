@@ -1,4 +1,4 @@
 pycryptodome
-request
+requests
 colorama
 fake-useragent
